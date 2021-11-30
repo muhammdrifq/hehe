@@ -1,0 +1,32 @@
+body{
+    font-family :initial;
+}
+table{
+    border-color: rgb(172, 125, 69);
+    background-color: bisque;
+}
+th{
+    column-gap: 2px;
+    background-color: bisque;
+}
+
+select{
+    background-color: rgb(172, 125, 69);
+	text-decoration: none;
+	
+}
+
+select:hover{
+	
+	color: bisque;
+}
+
+input{
+    background-color: rgb(172, 125, 69);
+	text-decoration: none;
+	
+}
+
+input:hover{
+	color: bisque;
+}
